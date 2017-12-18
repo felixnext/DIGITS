@@ -1,9 +1,11 @@
 # DIGITS
 
-[![Build Status](https://travis-ci.org/NVIDIA/DIGITS.svg?branch=master)](https://travis-ci.org/NVIDIA/DIGITS)
-
 DIGITS (the **D**eep Learning **G**PU **T**raining **S**ystem) is a webapp for training deep learning models.
 The currently supported frameworks are: Caffe, Torch, and Tensorflow.
+
+## Version Information
+
+This is a forked version of DIGITS for experimental purposes and feature extension.
 
 # Installation
 
@@ -46,4 +48,3 @@ Then, take a look at some of the other documentation at [docs/](docs/) and [exam
 * Please let us know by [filing a new issue](https://github.com/NVIDIA/DIGITS/issues/new)
 * Bonus points if you want to contribute by opening a [pull request](https://help.github.com/articles/using-pull-requests/)!
   * You will need to send a signed copy of the [Contributor License Agreement](CLA) to digits@nvidia.com before your change can be accepted.
-
